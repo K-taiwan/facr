@@ -1,0 +1,9 @@
+.post header {
+    display: flex;
+}
+
+.post header img {
+    width: 5rem;
+    border-radius:50%;
+    padding: 5px;
+}

@@ -1,0 +1,8 @@
+.post-content {
+    padding: 0.5em;
+    border-top: solid 1px rgb(235,235,235)
+}
+
+.post-content img {
+    width: 100%;
+}

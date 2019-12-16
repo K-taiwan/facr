@@ -1,0 +1,17 @@
+.post-interaction {
+    padding: .4em;
+    border-top: 2px solid rgb(235,235,235);
+}
+
+.like-button {
+    color: black;
+    background: white;
+    border: none;
+    font-size: 1.3em;
+    border-radius: 15%;
+}
+
+.liked {
+    background: midnightblue;
+    color: white;
+}

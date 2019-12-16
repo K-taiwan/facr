@@ -1,0 +1,54 @@
+[
+    {
+        "_id": 1,
+        "likes": 50000,
+        "user": {
+            "name":"CLS63",
+            "image": "https://media.giphy.com/media/PYBS7nNUQiCwU/giphy.gif"
+        },
+        "data": {
+            "content": "4 Door AMG!!",
+            "image": "https://images.iconfigurators.app/images/gallery/F%20SFO%20-%20CLS63%2005_3240_med.jpg"
+        }
+
+    },
+    {
+        "_id": 2,
+        "likes": 3000,
+        "user": {
+            "name":"C63",
+            "image": "https://media.giphy.com/media/3NNjv3627egRG/giphy.gif"
+        },
+        "data": {
+            "content": "2 Door AMG!",
+            "image": "https://www.topgear.com/sites/default/files/styles/fit_1960x1102/public/images/cars-road-test/carousel/2016/06/f4fd4daaa2a82c026531238d2b93a010/rp-c63-edition-1-44.jpg?itok=6zZvioXj"
+        }
+    
+    },
+    {
+        "_id": 3,
+        "likes": 200000,
+        "user": {
+            "name":"G63",
+            "image": "https://media.giphy.com/media/DODfOUquGaIy4/giphy.gif"
+        },
+        "data": {
+            "content": "4x4!",
+            "image": "https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/iol/2018/09/26/17233570/IOLmot26sep18_Brabus_700_b.jpg"
+        }
+    
+    },
+    {
+        "_id": 4,
+        "likes": 70000,
+        "user": {
+            "name":"S63",
+            "image": "https://media.giphy.com/media/dRoTSkmnwrXKE/giphy.gif"
+        },
+        "data": {
+            "content": "Classy!",
+            "image": "https://cdn.carbuzz.com/gallery-images/2018-mercedes-amg-s63-coupe-front-view-driving-carbuzz-514641-840x560.jpg"
+        }
+    
+    }
+]
